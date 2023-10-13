@@ -1,4 +1,4 @@
-package cn.rl520.encryptspringboot;
+package cn.rl520.encrypt;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
