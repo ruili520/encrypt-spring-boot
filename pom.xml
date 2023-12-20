@@ -18,6 +18,7 @@
 		<projectUrl>https://github.com/ruili520/encrypt-spring-boot.git</projectUrl>
 		<serverId>sonatype</serverId>
 	</properties>
+	
 
 	<developers>
 		<developer>
